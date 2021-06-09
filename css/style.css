@@ -48,12 +48,9 @@ div.aboutme{
 }
 
 p#home{
-    font-size: 2em;
+    font-size: 2vmax;
     font-family: 'Love Ya Like A Sister', cursive;
-    color: purple;
-    margin: auto;
     position: absolute;
-    right: 0;
 }
 
 img{
