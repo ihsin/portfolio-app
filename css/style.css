@@ -48,13 +48,30 @@ div.aboutme{
 }
 
 p#home{
+    font-size: 1.5vmax;
+    /* font-family: 'Love Ya Like A Sister', cursive; */
+    font-family: 'Monaco', sans-serif;
+    position: relative;
+    margin-bottom: 10vh;
+}
+
+p#greet{
     font-size: 2vmax;
-    font-family: 'Love Ya Like A Sister', cursive;
-    position: absolute;
+    font-family: "Rubik", sans-serif;
+    position: relative;
+    text-align: left;
+}
+
+p#intro{
+    font-size: 3vmax;
+    font-family: "Rubik", sans-serif;
+    position: relative;
+    text-align: left;
+    margin-top: 20px;
 }
 
 img{
-    width: 25vw;
+    width: 35vw;
     position: absolute;
     left: 0
 }
